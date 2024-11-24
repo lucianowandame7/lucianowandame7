@@ -3,7 +3,7 @@
 #### Rede social e contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/luciano-holz-wandame-filho-03132a2a1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luwandame@gmail.com)
+[![Gmail]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWslzCFvwJvwLBWjmNQxvLkctlzPXflFXWJDwSrwBBQglBGVKvJPvDXdsmMMXLqfsdCLRmlgg))](luwandame@gmail.com)
 
 ### Tecnologias que estou estudando
 <div style="align:center">
