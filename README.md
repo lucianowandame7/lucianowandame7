@@ -16,7 +16,7 @@
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 <img alt="mySql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<img alt="tailwind" src="https://img.shields.io/badge/tailwind-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </div>
 <br>
 
